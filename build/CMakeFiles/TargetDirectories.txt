@@ -1,0 +1,3 @@
+/home/ysy/Documents/Code/variant/build/CMakeFiles/MyExecutable.dir
+/home/ysy/Documents/Code/variant/build/CMakeFiles/edit_cache.dir
+/home/ysy/Documents/Code/variant/build/CMakeFiles/rebuild_cache.dir
