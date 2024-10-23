@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ysy/Documents/Code/variant/build",
-  "command": "/usr/bin/c++  -I/home/ysy/Documents/Code/variant/include -g -o CMakeFiles/MyExecutable.dir/main.cpp.o -c /home/ysy/Documents/Code/variant/main.cpp",
-  "file": "/home/ysy/Documents/Code/variant/main.cpp",
-  "output": "CMakeFiles/MyExecutable.dir/main.cpp.o"
-}
-]
